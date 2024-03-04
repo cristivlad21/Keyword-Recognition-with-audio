@@ -6,19 +6,18 @@ Before you begin, ensure you have met the following requirements:
 
 Python 3.x installed on your computer.
 Microphone set up and working on your system.
-Installation
 
+## Installation
 To install the necessary libraries, run the following commands in your terminal:
-pip install SpeechRecognition
-pip install pyautogui
-pip install regex
+- pip install SpeechRecognition
+- pip install pyautogui
+- pip install regex
 
 ## Configuration
 No additional configuration is needed to run this script.
 
 ## Usage
 To use the script, navigate to the script's directory and run:
-
 python voice_controlled_actions.py
 
 Once the script is running, you can start issuing voice commands. Here are some examples of commands you can use:
