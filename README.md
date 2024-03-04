@@ -21,9 +21,10 @@ To use the script, navigate to the script's directory and run:
 python voice_controlled_actions.py
 
 Once the script is running, you can start issuing voice commands. Here are some examples of commands you can use:
-"move up 100" - Moves the mouse cursor 100 pixels up.
-"press enter" - Simulates pressing the Enter key.
-"open notepad" - Opens the Notepad application.
+- "move up 100" - Moves the mouse cursor 100 pixels up.
+- "press enter" - Simulates pressing the Enter key.
+- "open notepad" - Opens the Notepad application.
+
 To quit the program, say "quit program".
 
 ## Contributing
