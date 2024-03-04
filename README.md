@@ -32,5 +32,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 
 ## Acknowledgments
-This script uses the SpeechRecognition library for converting speech to text.
-pyautogui is used for performing the mouse movements and key presses.
+This script uses the SpeechRecognition library for converting speech to text and PyAutoGUI is used for performing the mouse movements and key presses.
