@@ -109,5 +109,4 @@ def main():
                 print("Quitting program...")    
                 break  # Exit the loop to end the program
 
-# Uncomment the following line to run the script
 main()
